@@ -9,4 +9,4 @@ Now we develop all sorts of small stuff, of any nature (from games to modules fo
 
 <div id="header" align="center"><h1>Work servers</h1></div>
 
-- [EasyPlay](easyplay.su) (`Midustry` and `Minecraft`) **from** [Master](https://github.com/Master-Rus)
+- [EasyPlay](https://easyplay.su) (`Midustry` and `Minecraft`) **from** [Master](https://github.com/Master-Rus)
