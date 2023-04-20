@@ -11,4 +11,4 @@ Now we develop all sorts of small stuff, of any nature (from games to modules fo
 
 - [EasyPlay](https://easyplay.su) (`Midustry` and `Minecraft`) **from** [Master](https://github.com/Master-Rus)
 - [RCR](https://rcrms.ru) (`Mindustry`) **from** [Romanin](https://github.com/romanin-rf)
-  - `rcrms.ru` - *Mindustry Server - HUB*
+  - `rcrms.ru` - *HUB*
