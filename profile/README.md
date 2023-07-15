@@ -1,14 +1,8 @@
 <div id="header" align="center">
-  <img src="https://avatars.githubusercontent.com/u/79221653?s=400&u=c10c7515809195eebf6ecc667b54b9d410ad6737&v=4" width="100">
+  <img src="https://github.com/RCR-OOP/.github/assets/60302782/b9210762-bf6f-4740-b4bf-e442c49324b1" width="150">
 </div>
 <div id="header" align="center"><h1>Who are we?</h1></div>
 
 We are an ordinary **group of developers**.
-We used to run a server in the game [Mindustry](https://github.com/Anuken/Mindustry).
-Now we develop all sorts of small stuff, of any nature (from games to modules for **Python** and not only).
-
-<div id="header" align="center"><h1>Work servers</h1></div>
-
-- [EasyPlay](https://easyplay.su) (`Midustry` and `Minecraft`) **from** [Master](https://github.com/Master-Rus)
-- [RCR](https://rcrms.ru) (`Mindustry`) **from** [Romanin](https://github.com/romanin-rf)
-  - `rcrms.ru` - *HUB*
+Sometimes we do **development** work on **different things**.
+We mostly develop everything we need, but we would be happy if some projects are useful for you too.
