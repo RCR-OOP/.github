@@ -3,6 +3,7 @@
 </div>
 <div id="header" align="center"><h1>Who are we?</h1></div>
 
-We are an ordinary **group of developers**.
-Sometimes we do **development** work on **different things**.<br>
-We mostly develop everything we need, but we would be happy if some projects are useful for you too.
+<div align="center">
+  We are an ordinary group of developers. Sometimes we do development work on different things.<br>
+  We mostly develop everything we need, but we would be happy if some projects are useful for you too.
+</div>
